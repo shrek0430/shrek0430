@@ -1,5 +1,5 @@
 ## Hi! I'm Shrekman :)
-
+![My Demo](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 A fast and beautiful mobile + Web3 app built with React Native, Tailwind, and Solidity.
 
 
