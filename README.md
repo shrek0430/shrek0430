@@ -1,5 +1,7 @@
-## Hi! I'm Shrekman :)
-![My Demo](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+<h1 align="center">
+  Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm ShrekMan.
+</h1>
+
 A fast and beautiful mobile + Web3 app built with React Native, Tailwind, and Solidity.
 
 
