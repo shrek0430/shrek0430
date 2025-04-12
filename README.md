@@ -14,28 +14,6 @@
 - 🧠 Contributor to open source projects (Hardhat, React Native)
 - 👥 Collaborated on team dApps with global devs
 
-<table>
-  <tr>
-    <td valign="top" width="200">
-      
-      <h3>🏅 Achievements</h3>
-      <img src="https://img.shields.io/badge/-100%20Commits-blue"/>
-      <br>
-      <img src="https://img.shields.io/badge/-Open%20Source%20Lover-green"/>
-      <br>
-      <img src="https://img.shields.io/badge/-Dashboard%20Builder-yellow"/>
-    
-    </td>
-    
-    <td valign="top">
-      
-      <h2>👋 Hello, I'm Shrek Programming!</h2>
-      <p>I build dashboards, write clean code, and live in a swamp... of ideas 🐸</p>
-    
-    </td>
-  </tr>
-</table>
-
 
 ![Framework](https://img.shields.io/badge/Built%20With-React%20Native-blue)
 ![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-green)
